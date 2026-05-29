@@ -4,18 +4,18 @@
 
 This is a collection of practice projects built while learning web development.
 
-## Login Page Beginner
+### Login Page Beginner
 A glassmorphism style login page.
 
-## Languages Used
+### Languages Used
 - HTML5
 - CSS3
 
 
-## Animated Toggle
+### Animated Toggle
 A dark and light mode toggle with smooth icon animations.
 
-### Languages Used
+#### Languages Used
 - HTML5
 - CSS3
 
