@@ -1,4 +1,4 @@
-<h1 align="center"># RESTART</h1>
+<h1 align="center">RESTART</h1>
 
 ## Web Dev Journey 
 
