@@ -1,4 +1,6 @@
-# Web Dev Journey
+<h1 align="center"># RESTART</h1>
+
+## Web Dev Journey 
 
 This is a collection of practice projects built while learning web development.
 
