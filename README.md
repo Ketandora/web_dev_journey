@@ -4,7 +4,7 @@
 
 This is a collection of practice projects built while learning web development.
 
-## Login Page Beginner
+## 1. Login Page Beginner
 
 A glassmorphism style login page.
 
@@ -13,7 +13,7 @@ A glassmorphism style login page.
 - CSS3
 
 
-## Animated Toggle
+## 2. Animated Toggle
 
 A dark and light mode toggle with smooth icon animations.
 
@@ -21,7 +21,7 @@ A dark and light mode toggle with smooth icon animations.
 - HTML5
 - CSS3
 
-## Youtube frontend
+## 3. Youtube frontend
 
 Just a youtube frontend
 
@@ -29,7 +29,7 @@ Just a youtube frontend
 - HTML5
 - CSS3
 
-## Music Site Frontend
+## 4. Music Site Frontend
 
 Understood how grid flex can be useful also how the scrolling is done
 
