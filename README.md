@@ -21,6 +21,21 @@ A dark and light mode toggle with smooth icon animations.
 - HTML5
 - CSS3
 
+## Youtube frontend
+
+Just a youtube frontend
+
+#### Languages Used
+- HTML5
+- CSS3
+
+## Music Site Frontend
+
+Understood how grid flex can be useful also how the scrolling is done
+
+#### Languages Used
+- HTML5
+- CSS3
 
 ## Purpose
 
