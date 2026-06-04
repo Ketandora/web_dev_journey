@@ -33,6 +33,9 @@ Just a youtube frontend
 
 Understood how grid flex can be useful also how the scrolling is done
 
+## Live Demo
+[View Project](https://web-dev-journey-omega.vercel.app)
+
 #### Languages Used
 - HTML5
 - CSS3
