@@ -21,6 +21,9 @@ Understood how grid flex can be useful also how the scrolling is done
 
 Just a youtube frontend
 
+## Live Demo
+[View Project](https://web-dev-journey-2oiq.vercel.app/)
+
 #### Languages Used
 - HTML5
 - CSS3
@@ -41,6 +44,9 @@ A dark and light mode toggle with smooth icon animations.
 ## 1. Login Page Beginner
 
 A glassmorphism style login page.
+
+## Live Demo
+[View Project](web-dev-journey-4omn.vercel.app)
 
 #### Languages Used
 - HTML5
