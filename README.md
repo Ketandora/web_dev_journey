@@ -17,6 +17,9 @@ A glassmorphism style login page.
 
 A dark and light mode toggle with smooth icon animations.
 
+## Live Demo
+[View Project](https://web-dev-journey-6nfj.vercel.app/)
+
 #### Languages Used
 - HTML5
 - CSS3
