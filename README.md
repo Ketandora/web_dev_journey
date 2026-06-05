@@ -4,9 +4,22 @@
 
 This is a collection of practice projects built while learning web development.
 
-## 1. Login Page Beginner
 
-A glassmorphism style login page.
+## 4. Music Site Frontend
+
+Understood how grid flex can be useful also how the scrolling is done
+
+## Live Demo
+[View Project](https://web-dev-journey-omega.vercel.app)
+
+#### Languages Used
+- HTML5
+- CSS3
+
+
+## 3. Youtube frontend
+
+Just a youtube frontend
 
 #### Languages Used
 - HTML5
@@ -24,24 +37,15 @@ A dark and light mode toggle with smooth icon animations.
 - HTML5
 - CSS3
 
-## 3. Youtube frontend
 
-Just a youtube frontend
+## 1. Login Page Beginner
 
-#### Languages Used
-- HTML5
-- CSS3
-
-## 4. Music Site Frontend
-
-Understood how grid flex can be useful also how the scrolling is done
-
-## Live Demo
-[View Project](https://web-dev-journey-omega.vercel.app)
+A glassmorphism style login page.
 
 #### Languages Used
 - HTML5
 - CSS3
+
 
 ## Purpose
 
