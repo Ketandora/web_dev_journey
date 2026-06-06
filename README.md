@@ -46,7 +46,7 @@ A dark and light mode toggle with smooth icon animations.
 A glassmorphism style login page.
 
 ## Live Demo
-[Login Page Beginner](web-dev-journey-4omn.vercel.app)
+[Login Page Beginner](https://web-dev-journey-4omn.vercel.app/)
 
 #### Languages Used
 - HTML5
