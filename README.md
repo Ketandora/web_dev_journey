@@ -5,12 +5,12 @@
 This is a collection of practice projects built while learning web development.
 
 
-## 4. Amazon clone Frontend
+## 5. Amazon clone Frontend
 
 learnt how to inspect from amazon pages abt its size, pick their color and use
 
 ## Live Demo
-[Amazon clone Frontend](web-dev-journey-nc6c.vercel.app)
+[Amazon clone Frontend](https://web-dev-journey-nc6c.vercel.app/)
 
 #### Languages Used
 - HTML5
