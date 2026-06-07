@@ -80,7 +80,7 @@
 .search-icon{
     width: 45px;
     display: flex;
-    justify-self: center;
+    justify-content: center;
     align-items: center;
     font-size: 1.2rem;
     background-color: #febd68;
