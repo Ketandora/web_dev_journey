@@ -5,6 +5,18 @@
 This is a collection of practice projects built while learning web development.
 
 
+## 4. Amazon clone Frontend
+
+learnt how to inspect from amazon pages abt its size, pick their color and use
+
+## Live Demo
+[Amazon clone Frontend](web-dev-journey-nc6c.vercel.app)
+
+#### Languages Used
+- HTML5
+- CSS3
+
+
 ## 4. Music Site Frontend
 
 Understood how grid flex can be useful also how the scrolling is done
