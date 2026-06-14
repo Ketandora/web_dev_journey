@@ -5,6 +5,19 @@
 This is a collection of practice projects built while learning web development.
 
 
+## 6. Basic Calculator
+
+learnt how to inspect from amazon pages abt its size, pick their color and use
+
+## Live Demo
+[Basic Calculator](https://web-dev-journey-7bfi.vercel.app/)
+
+#### Languages Used
+- HTML5
+- CSS3
+- JavaScript
+
+
 ## 5. Amazon clone Frontend
 
 learnt how to inspect from amazon pages abt its size, pick their color and use
