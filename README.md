@@ -5,7 +5,7 @@
 This is a collection of practice projects built while learning web development.
 
 
-## 6. Tic Tak Toe
+## 7. Tic Tak Toe
 
 made a small game practicing js
 
