@@ -5,9 +5,22 @@
 This is a collection of practice projects built while learning web development.
 
 
+## 6. Tic Tak Toe
+
+made a small game practicing js
+
+## Live Demo
+[Tic Tak Toe](https://web-dev-journey-3mx9.vercel.app/)
+
+#### Languages Used
+- HTML5
+- CSS3
+- JavaScript
+
+
 ## 6. Basic Calculator
 
-learnt how to inspect from amazon pages abt its size, pick their color and use
+just a basic calculator 
 
 ## Live Demo
 [Basic Calculator](https://web-dev-journey-7bfi.vercel.app/)
