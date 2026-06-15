@@ -5,6 +5,19 @@
 This is a collection of practice projects built while learning web development.
 
 
+## 7. Rock Paper Scissors
+
+Practicing js
+
+## Live Demo
+[Rock Paper Scissors](https://web-dev-journey-p94w.vercel.app/)
+
+#### Languages Used
+- HTML5
+- CSS3
+- JavaScript
+
+
 ## 7. Tic Tak Toe
 
 made a small game practicing js
