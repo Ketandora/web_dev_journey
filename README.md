@@ -5,9 +5,23 @@
 This is a collection of practice projects built while learning web development.
 
 
+## 10. Currency Converter
+
+learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
+
+## Live Demo
+[Currency Converter](https://web-dev-journey-56c6.vercel.app/)
+
+#### Languages Used
+- HTML5
+- CSS3
+- JavaScript
+
+
+
 ## 9. Snake Game
 
-mplemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
+Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
 
 ## Live Demo
 [Snake Game](https://web-dev-journey-56c6.vercel.app/)
