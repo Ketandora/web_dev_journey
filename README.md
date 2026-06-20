@@ -10,7 +10,7 @@ This is a collection of practice projects built while learning web development.
 learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
 
 ## Live Demo
-[Currency Converter](https://web-dev-journey-56c6.vercel.app/)
+[Currency Converter](https://web-dev-journey-mvk5.vercel.app/)
 
 #### Languages Used
 - HTML5
