@@ -14,7 +14,7 @@ learnt how fetching api's is done also how like using arrays and appending to th
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 - Vanilla JavaScript
 
 
@@ -28,7 +28,7 @@ Implemented real time game logic, collision detection, keyboard controls, also l
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 - Vanilla JavaScript
 
 
@@ -41,7 +41,7 @@ Practicing js
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 - Vanilla JavaScript
 
 
@@ -54,7 +54,7 @@ made a small game practicing js
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 - Vanilla JavaScript
 
 
@@ -67,7 +67,7 @@ just a basic calculator
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 - Vanilla JavaScript
 
 
@@ -80,7 +80,7 @@ learnt how to inspect from amazon pages abt its size, pick their color and use
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 
 
 ## 4. Music Site Frontend
@@ -92,7 +92,7 @@ Understood how grid flex can be useful also how the scrolling is done
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 
 
 ## 3. Youtube frontend
@@ -104,7 +104,7 @@ Just a youtube frontend
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 
 
 ## 2. Animated Toggle
@@ -116,7 +116,7 @@ A dark and light mode toggle with smooth icon animations.
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 
 
 ## 1. Login Page Beginner
@@ -128,7 +128,7 @@ A glassmorphism style login page.
 
 #### Languages Used
 - HTML5
-- CSS3
+- Vanilla CSS
 
 
 ## Purpose
