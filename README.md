@@ -15,7 +15,7 @@ learnt how fetching api's is done also how like using arrays and appending to th
 #### Languages Used
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 
 
@@ -29,7 +29,7 @@ Implemented real time game logic, collision detection, keyboard controls, also l
 #### Languages Used
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 
 ## 8. Rock Paper Scissors
@@ -42,7 +42,7 @@ Practicing js
 #### Languages Used
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 
 ## 7. Tic Tak Toe
@@ -55,7 +55,7 @@ made a small game practicing js
 #### Languages Used
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 
 ## 6. Basic Calculator
@@ -68,7 +68,7 @@ just a basic calculator
 #### Languages Used
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 
 ## 5. Amazon clone Frontend
