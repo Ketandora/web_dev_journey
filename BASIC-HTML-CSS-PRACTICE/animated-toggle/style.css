@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #2b2b2b;
+
+}
+
+label{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    background: transparent;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    position: absolute;
+    opacity: 0;
+}
+.sun{
+    position: absolute;
+     font-size: 3em;
+    color: #666;
+    filter: drop-shadow(0 0 2px rgba(0,0,0,.5));
+    transform: scale(0);
+    transition: 1s ease;
+}
+input:checked~.sun{
+    transition-delay: .8s;
+    transform:  scale(1) rotate(360deg);
+}
+
+
+.moon{
+    font-size: 3em;
+    color: #666;
+    filter: drop-shadow(0 0 2px rgba(0,0,0,.5));
+    transition: 1s ease;
+    transition-delay: .8s;
+}
+
+input:checked~.moon{
+    transition-delay: 0s;
+    transform: rotate(360deg) scale(0);
+}
+.toggle{
+    position:absolute;
+    width:80px;
+    height:80px;
+    border-radius:50%;
+
+    box-shadow:
+        0 2px 5px rgba(0,0,0,0.2),
+        inset 0 1px 1px rgba(255,255,255,0.02),
+        inset 0 -1px 1px rgba(0,0,0,0.15);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    transition: 1s;
+}
+input:checked~.toggle {
+    background: #f8f8f8;
+}
+.animation{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: #f8f8f8;
+    z-index: -1;
+    clip-path: circle(0.0% at 50% 50%);
+    transition: 1.5s ease-out;
+}
+input:checked~.animation{
+    clip-path: circle(150% at 50% 50%);
+}
