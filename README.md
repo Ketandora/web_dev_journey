@@ -10,7 +10,7 @@ This is a collection of practice projects built while learning web development.
 learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
 
 ## Live Demo
-[Currency Converter](https://web-dev-journey-mvk5.vercel.app/)
+[Currency Converter](https://web-dev-journey-ryjf.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -24,7 +24,7 @@ learnt how fetching api's is done also how like using arrays and appending to th
 Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
 
 ## Live Demo
-[Snake Game](https://web-dev-journey-56c6.vercel.app/)
+[Snake Game](https://web-dev-journey-7byu.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -37,7 +37,7 @@ Implemented real time game logic, collision detection, keyboard controls, also l
 Practicing js
 
 ## Live Demo
-[Rock Paper Scissors](https://web-dev-journey-p94w.vercel.app/)
+[Rock Paper Scissors](https://web-dev-journey-2jzg.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -50,7 +50,7 @@ Practicing js
 made a small game practicing js
 
 ## Live Demo
-[Tic Tak Toe](https://web-dev-journey-3mx9.vercel.app/)
+[Tic Tak Toe](https://web-dev-journey-ydu2.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -63,7 +63,7 @@ made a small game practicing js
 just a basic calculator 
 
 ## Live Demo
-[Basic Calculator](https://web-dev-journey-7bfi.vercel.app/)
+[Basic Calculator](https://web-dev-journey-fksp.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -76,7 +76,7 @@ just a basic calculator
 learnt how to inspect from amazon pages abt its size, pick their color and use
 
 ## Live Demo
-[Amazon clone Frontend](https://web-dev-journey-nc6c.vercel.app/)
+[Amazon clone Frontend](https://web-dev-journey-ez2g.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -88,7 +88,7 @@ learnt how to inspect from amazon pages abt its size, pick their color and use
 Understood how grid flex can be useful also how the scrolling is done
 
 ## Live Demo
-[Music Site Frontend](https://web-dev-journey-omega.vercel.app)
+[Music Site Frontend](https://web-dev-journey-iyvu.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -100,7 +100,7 @@ Understood how grid flex can be useful also how the scrolling is done
 Just a youtube frontend
 
 ## Live Demo
-[Youtube frontend](https://web-dev-journey-2oiq.vercel.app/)
+[Youtube frontend](https://web-dev-journey-i1ep.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -112,7 +112,7 @@ Just a youtube frontend
 A dark and light mode toggle with smooth icon animations.
 
 ## Live Demo
-[Animated Toggle](https://web-dev-journey-6nfj.vercel.app/)
+[Animated Toggle](https://web-dev-journey-sy1g.vercel.app/)
 
 #### Languages Used
 - HTML5
@@ -124,7 +124,7 @@ A dark and light mode toggle with smooth icon animations.
 A glassmorphism style login page.
 
 ## Live Demo
-[Login Page Beginner](https://web-dev-journey-4omn.vercel.app/)
+[Login Page Beginner](https://web-dev-journey-ten.vercel.app/)
 
 #### Languages Used
 - HTML5
