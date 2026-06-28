@@ -7,7 +7,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 13. Currency Converter     
-[Click to See](https://web-dev-journey-j562.vercel.app/)
+[Live Demo](https://web-dev-journey-j562.vercel.app/)
 
     Learnt API integration in React, handling asynchronous data fetching, state management using React Hooks.
 
@@ -18,7 +18,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 12. Password Generator
-[Click to See](https://web-dev-journey-zt78.vercel.app/)
+[Live Demo](https://web-dev-journey-zt78.vercel.app/)
 
     learnt React Hooks (useState, useEffect, useCallback, useRef) while building it. Also practised state management, handling user inputs, and dynamically updating the UI.
 
@@ -28,7 +28,7 @@ This is a collection of practice projects built while learning web development.
     - React JS
 
 ## 11. Color selector basic
-[Click to See](https://web-dev-journey-158p.vercel.app/)
+[Live Demo](https://web-dev-journey-158p.vercel.app/)
 
     learnt how to write css in inside html 
     
@@ -40,7 +40,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 10. Snake Game
-[Click to See](https://web-dev-journey-7byu.vercel.app/)
+[Live Demo](https://web-dev-journey-7byu.vercel.app/)
 
     Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
 
@@ -50,7 +50,7 @@ This is a collection of practice projects built while learning web development.
     - Vanilla JavaScript
 
 ## 9. Currency Converter
-[Click to See](https://web-dev-journey-ryjf.vercel.app/)
+[Live Demo](https://web-dev-journey-ryjf.vercel.app/)
 
     learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
 
@@ -62,7 +62,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 8. Rock Paper Scissors
-[Click to See](https://web-dev-journey-2jzg.vercel.app/)
+[Live Demo](https://web-dev-journey-2jzg.vercel.app/)
 
     Practicing js 
 
@@ -73,7 +73,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 7. Tic Tak Toe
-[Click to See](https://web-dev-journey-ydu2.vercel.app/)
+[Live Demo](https://web-dev-journey-ydu2.vercel.app/)
 
     Made a small game practicing js
 
@@ -84,7 +84,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 6. Basic Calculator
-[Click to See](https://web-dev-journey-fksp.vercel.app/)
+[Live Demo](https://web-dev-journey-fksp.vercel.app/)
 
     Just a basic calculator 
 
@@ -95,7 +95,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 5. Amazon clone Frontend
-[Click to See](https://web-dev-journey-ez2g.vercel.app/)
+[Live Demo](https://web-dev-journey-ez2g.vercel.app/)
 
     learnt how to inspect from amazon pages abt its size, pick their color and use
 
@@ -105,7 +105,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 4. Music Site Frontend
-[Click to See](https://web-dev-journey-iyvu.vercel.app/)
+[Live Demo](https://web-dev-journey-iyvu.vercel.app/)
 
     Understood how grid flex can be useful also how the scrolling is done
 
@@ -115,7 +115,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 3. Youtube frontend
-[Click to See](https://web-dev-journey-dha8.vercel.app/)
+[Live Demo](https://web-dev-journey-dha8.vercel.app/)
 
     Just a youtube frontend
 
@@ -125,7 +125,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 2. Animated Toggle
-[Click to See](https://web-dev-journey-sy1g.vercel.app/)
+[Live Demo](https://web-dev-journey-sy1g.vercel.app/)
 
     A dark and light mode toggle with smooth icon animations.
 
@@ -135,7 +135,7 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 1. Login Page Beginner
-[Click to See](https://web-dev-journey-ten.vercel.app/)
+[Live Demo](https://web-dev-journey-ten.vercel.app/)
 
     A glassmorphism style login page.
 
