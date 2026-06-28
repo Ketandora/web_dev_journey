@@ -18,11 +18,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 12. Password Generator
+[Click to See](https://web-dev-journey-zt78.vercel.app/)
 
     learnt React Hooks (useState, useEffect, useCallback, useRef) while building it. Also practised state management, handling user inputs, and dynamically updating the UI.
-
-    ## Live Demo
-    [Password Generator](https://web-dev-journey-zt78.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -30,12 +28,10 @@ This is a collection of practice projects built while learning web development.
     - React JS
 
 ## 11. Color selector basic
+[Color Selector](https://web-dev-journey-158p.vercel.app/)
 
     learnt how to write css in inside html 
-
-    ## Live Demo
-    [Color Selector](https://web-dev-journey-158p.vercel.app/)
-
+    
     #### Languages Used
     - HTML5
     - Tailwind CSS
@@ -44,11 +40,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 10. Snake Game
+[Snake Game](https://web-dev-journey-7byu.vercel.app/)
 
     Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
-
-    ## Live Demo
-    [Snake Game](https://web-dev-journey-7byu.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -56,11 +50,9 @@ This is a collection of practice projects built while learning web development.
     - Vanilla JavaScript
 
 ## 9. Currency Converter
+[Currency Converter](https://web-dev-journey-ryjf.vercel.app/)
 
     learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
-
-    ## Live Demo
-    [Currency Converter](https://web-dev-journey-ryjf.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -70,11 +62,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 8. Rock Paper Scissors
+[Rock Paper Scissors](https://web-dev-journey-2jzg.vercel.app/)
 
     Practicing js 
-
-    ## Live Demo
-    [Rock Paper Scissors](https://web-dev-journey-2jzg.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -83,11 +73,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 7. Tic Tak Toe
+[Tic Tak Toe](https://web-dev-journey-ydu2.vercel.app/)
 
     Made a small game practicing js
-
-    ## Live Demo
-    [Tic Tak Toe](https://web-dev-journey-ydu2.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -96,11 +84,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 6. Basic Calculator
+[Basic Calculator](https://web-dev-journey-fksp.vercel.app/)
 
     Just a basic calculator 
-
-    ## Live Demo
-    [Basic Calculator](https://web-dev-journey-fksp.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -109,11 +95,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 5. Amazon clone Frontend
+[Amazon clone Frontend](https://web-dev-journey-ez2g.vercel.app/)
 
     learnt how to inspect from amazon pages abt its size, pick their color and use
-
-    ## Live Demo
-    [Amazon clone Frontend](https://web-dev-journey-ez2g.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -121,11 +105,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 4. Music Site Frontend
+[Music Site Frontend](https://web-dev-journey-iyvu.vercel.app/)
 
     Understood how grid flex can be useful also how the scrolling is done
-
-    ## Live Demo
-    [Music Site Frontend](https://web-dev-journey-iyvu.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -133,11 +115,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 3. Youtube frontend
+[Youtube frontend](https://web-dev-journey-dha8.vercel.app/)
 
     Just a youtube frontend
-
-    ## Live Demo
-    [Youtube frontend](https://web-dev-journey-dha8.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -145,11 +125,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 2. Animated Toggle
+[Animated Toggle](https://web-dev-journey-sy1g.vercel.app/)
 
     A dark and light mode toggle with smooth icon animations.
-
-    ## Live Demo
-    [Animated Toggle](https://web-dev-journey-sy1g.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -157,11 +135,9 @@ This is a collection of practice projects built while learning web development.
 
 
 ## 1. Login Page Beginner
+[Login Page Beginner](https://web-dev-journey-ten.vercel.app/)
 
     A glassmorphism style login page.
-
-    ## Live Demo
-    [Login Page Beginner](https://web-dev-journey-ten.vercel.app/)
 
     #### Languages Used
     - HTML5
