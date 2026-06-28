@@ -6,7 +6,8 @@ This is a collection of practice projects built while learning web development.
 
 
 
-## 13. Currency Converter     [Click to See](https://web-dev-journey-j562.vercel.app/)
+## 13. Currency Converter     
+[Click to See](https://web-dev-journey-j562.vercel.app/)
 
     Learnt API integration in React, handling asynchronous data fetching, state management using React Hooks.
 
