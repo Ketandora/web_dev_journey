@@ -6,11 +6,25 @@ This is a collection of practice projects built while learning web development.
 
 
 
+## 13. Currency Converter
+
+    Learnt API integration in React, handling asynchronous data fetching, state management using React Hooks.
+
+    ## Live Demo
+    [Currency Converter](https://web-dev-journey-j562.vercel.app/)
+
+    #### Languages Used
+    - HTML5
+    - Tailwind CSS
+    - React JS
+
+
 ## 12. Password Generator
 
     learnt React Hooks (useState, useEffect, useCallback, useRef) while building it. Also practised state management, handling user inputs, and dynamically updating the UI.
 
-    
+    ## Live Demo
+    [Password Generator](https://web-dev-journey-zt78.vercel.app/)
 
     #### Languages Used
     - HTML5
@@ -30,7 +44,20 @@ This is a collection of practice projects built while learning web development.
     - React JS
 
 
-## 10. Currency Converter
+
+## 10. Snake Game
+
+    Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
+
+    ## Live Demo
+    [Snake Game](https://web-dev-journey-7byu.vercel.app/)
+
+    #### Languages Used
+    - HTML5
+    - Vanilla CSS
+    - Vanilla JavaScript
+
+## 9. Currency Converter
 
     learnt how fetching api's is done also how like using arrays and appending to the select form rather than manually doin it
 
@@ -42,19 +69,6 @@ This is a collection of practice projects built while learning web development.
     - Vanilla CSS
     - Vanilla JavaScript
 
-
-
-## 9. Snake Game
-
-    Implemented real time game logic, collision detection, keyboard controls, also learnt how to do dynamic rendering using the DOM
-
-    ## Live Demo
-    [Snake Game](https://web-dev-journey-7byu.vercel.app/)
-
-    #### Languages Used
-    - HTML5
-    - Vanilla CSS
-    - Vanilla JavaScript
 
 
 ## 8. Rock Paper Scissors
