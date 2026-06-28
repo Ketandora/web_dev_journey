@@ -100,7 +100,7 @@ Understood how grid flex can be useful also how the scrolling is done
 Just a youtube frontend
 
 ## Live Demo
-[Youtube frontend](https://web-dev-journey-i1ep.vercel.app/)
+[Youtube frontend](https://web-dev-journey-dha8.vercel.app/)
 
 #### Languages Used
 - HTML5
