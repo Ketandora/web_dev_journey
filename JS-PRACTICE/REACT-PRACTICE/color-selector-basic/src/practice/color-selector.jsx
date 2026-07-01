@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 const Colorr = () => {
-    const [color, setColor] = useState("white")
+    const [color, setColor] = useState("ocean")
   return (
     <div>
       <div className='w-full h-screen duration-200' 
